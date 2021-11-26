@@ -25,3 +25,10 @@ font-size: 32px;
    cursor: pointer;
 }   
 .button:hover {opacity: 1}
+.label {
+  color: #3806F1;
+  font-weight: bold;
+  display: block;
+  width: 200px;
+  float: right;
+}
