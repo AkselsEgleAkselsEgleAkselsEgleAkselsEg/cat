@@ -2,13 +2,13 @@
 display: flex;
 padding: 16px 32px 8px;
 margin: 8px 12px;
-background-color: red;
+background-color: #99cc00;
 font-family: 'Courier New', Courier, monospace;
 font-size: 32px;
 }
 .arejaKaste {
   border-style: doted;
-  border-color: blue;
+  border-color: red;
   background-color: lightblue;
   padding: 10px 10px 10px 10px;
   margin: 50px 20px 50px 20px;
