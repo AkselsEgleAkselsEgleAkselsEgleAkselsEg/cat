@@ -1,29 +1,29 @@
 P{
 text-align:left;
-padding:3px;
-width: 175px;
+padding:5px;
+width: 220px;
 font-weight: bold;
 }
 span{
 text-align:left;
-padding:3px;
+padding:4px;
 font-weight: bold;
-border: 2px solid red;
-border-radius: 6px;
-padding:3px;
+border: 3px solid red;
+border-radius: 7px;
+padding:4px;
 }
 input{
-margin-left: 25px;
+margin-left: 35px;
 }
 select{
-margin-left: 25px;
+margin-left: 35px;
 }
 checkbox{
-margin-left: 30px;
+margin-left: 35px;
 }
 .vards{
-padding-left: 6px;
-padding-right: 6px;
+padding-left: 8px;
+padding-right: 8px;
 }
 .vecums{
 padding-left: 0px;
@@ -31,21 +31,21 @@ padding-right: 0px;
 }
 .papildus{
 padding-left:0px;
-padding-right: 25px;
+padding-right: 35px;
 }
 .arejaKaste {
   border-style: doted;
   border-color: red;
   background-color: lightblue;
-  padding: 10px 10px 10px 10px;
-  margin: 50px 20px 50px 20px;
-  width: 40%;
+  padding: 12px 12px 12px 12px;
+  margin: 55px 25px 55px 25px;
+  width: 36%;
   }
   .button1 { 
    background-color: white; 
    color: black; 
-   border: 2px solid #3366ff;
-   padding: 10px 20px; 
+   border: 3px solid #3366ff;
+   padding: 12px 24px; 
    cursor: pointer;
 } 
 .button1:hover { 
@@ -55,8 +55,8 @@ padding-right: 25px;
 .button2 { 
   background-color: white;
   color: black;
-  border: 2px solid #ff0000; 
-  padding: 10px 20px; 
+  border: 3px solid #ff0000; 
+  padding: 12px 24px; 
   cursor: pointer;
 } 
 .button2:hover { 
@@ -70,10 +70,10 @@ padding-right; 7px;
 }
 #submit{
 text-align: right;
-padding-bottom: 7px;
-padding-top: 7px;
-padding-left: 12px;
-padding-right: 12px;
+padding-bottom: 9px;
+padding-top: 9px;
+padding-left: 15px;
+padding-right: 15px;
 }
 hr{
 color:red;
