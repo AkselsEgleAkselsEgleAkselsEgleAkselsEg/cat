@@ -22,12 +22,12 @@ checkbox{
 margin-left: 35px;
 }
 .vards{
-padding-left: 8px;
-padding-right: 8px;
+padding-left: 10px;
+padding-right: 10px;
 }
 .vecums{
-padding-left: 0px;
-padding-right: 0px;
+padding-left: 10px;
+padding-right: 10px;
 }
 .papildus{
 padding-left:0px;
@@ -39,24 +39,24 @@ padding-right: 35px;
   background-color: lightblue;
   padding: 12px 12px 12px 12px;
   margin: 55px 25px 55px 25px;
-  width: 36%;
+  width: 30%;
   }
   .button1 { 
    background-color: white; 
    color: black; 
-   border: 3px solid #3366ff;
-   padding: 12px 24px; 
+   border: 3px solid #ff0000;
+   padding: 15px 30px; 
    cursor: pointer;
 } 
 .button1:hover { 
-  background-color: #66ccff; 
+  background-color: #cc0000; 
   color: white;
 } 
 .button2 { 
   background-color: white;
   color: black;
   border: 3px solid #ff0000; 
-  padding: 12px 24px; 
+  padding: 15px 30px; 
   cursor: pointer;
 } 
 .button2:hover { 
