@@ -1,0 +1,95 @@
+P{
+text-align:left;
+padding:3px;
+width: 175px;
+font-weight: bold;
+}
+span{
+text-align:left;
+padding:3px;
+font-weight: bold;
+border: 2px solid red;
+border-radius: 6px;
+padding:3px;
+}
+input{
+margin-left: 25px;
+}
+select{
+margin-left: 25px;
+}
+checkbox{
+margin-left: 30px;
+}
+.vards{
+padding-left: 6px;
+padding-right: 6px;
+}
+.vecums{
+padding-left: 0px;
+padding-right: 0px;
+}
+.papildus{
+padding-left:0px;
+padding-right: 25px;
+}
+.arejaKaste {
+  border-style: doted;
+  border-color: red;
+  background-color: lightblue;
+  padding: 10px 10px 10px 10px;
+  margin: 50px 20px 50px 20px;
+  width: 40%;
+  }
+  .button1 { 
+   background-color: white; 
+   color: black; 
+   border: 2px solid #3366ff;
+   padding: 10px 20px; 
+   cursor: pointer;
+} 
+.button1:hover { 
+  background-color: #66ccff; 
+  color: white;
+} 
+.button2 { 
+  background-color: white;
+  color: black;
+  border: 2px solid #ff0000; 
+  padding: 10px 20px; 
+  cursor: pointer;
+} 
+.button2:hover { 
+  background-color: #cc0000; 
+  color: white;
+}
+#form{
+align: left;
+padding-left: 35px;
+padding-right; 7px;
+}
+#submit{
+text-align: right;
+padding-bottom: 7px;
+padding-top: 7px;
+padding-left: 12px;
+padding-right: 12px;
+}
+hr{
+color:red;
+width: 80%;
+}
+  
+
+
+
+
+
+
+
+
+
+  
+
+  
+
