@@ -61,7 +61,7 @@ padding-right: 35px;
   color: black;
   border: 3px solid #ff0000; 
   padding: 15px 30px; 
-  margin 4px 2px;
+  margin: 4px 2px;
   cursor: pointer;
   border-radius: 10px;
 } 
@@ -72,7 +72,7 @@ padding-right: 35px;
 #form{
 align: left;
 padding-left: 35px;
-padding-right; 7px;
+padding-right: 7px;
 }
 #submit{
 text-align: right;
