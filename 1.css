@@ -1,5 +1,7 @@
 P{
 text-align:center;
+  vertical-align: center;
+  align-content: center;
 padding:5px;
 width: 220px;
 font-weight: bold;
